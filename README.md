@@ -13,7 +13,7 @@ To run this project, you need install first:
 pip install flask
 pip install requests
 ```
-## Setup
+## Start
 To start the project you need to run the following command:
 ```
 python app.py
