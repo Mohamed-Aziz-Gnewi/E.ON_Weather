@@ -10,6 +10,6 @@ Project is created with:
 ## Setup
 To run this project, you need install first:
 ```
-$ pip install flask
-$ pip install requests
+pip install flask
+pip install requests
 ```
